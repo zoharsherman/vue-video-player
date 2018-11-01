@@ -50,7 +50,10 @@
     "object-assign": "^4.1.1",
     "video.js": "7.2.4",
     "videojs-flash": "^2.1.0",
-    "videojs-hotkeys": "^0.2.20"
+    "videojs-hotkeys": "^0.2.20",
+    "aes-decrypter": "^3.0.0",
+    "m3u8-parser": "^4.2.0",
+    "mux.js": "^5.0.1"
   },
   "expDependencies": {
     "node-sass": "^4.7.2",
